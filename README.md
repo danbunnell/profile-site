@@ -1,6 +1,6 @@
 # danbunnell.com
 
-This is a static site generator project that builds my personal profile website.
+This is a static site generator project that builds my personal profile website, using [Hugo](https://gohugo.io/). The site is currently deployed to https://danbunnell.com and hosted using [Netlify](https://www.netlify.com/).
 
 ![Screenshot](./res/screenshot.png)
 
