@@ -1,0 +1,4 @@
+# this file describes redirects when hosting on netlify
+# ref: https://docs.netlify.com/routing/redirects/
+/daily          https://github.com/danbunnell/notebook/blob/main/personal/2023-daily.md
+/tracker        https://onedrive.live.com/edit.aspx?resid=7FFD399F2EA98A4B!69356&cid=7ffd399f2ea98a4b&CT=1672684946317&OR=ItemsView
