@@ -1,4 +1,4 @@
-module github.com/danbunnell/danbunnell.com
+module github.com/danbunnell/profile-site
 
 go 1.19
 
